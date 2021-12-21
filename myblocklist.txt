@@ -1,0 +1,11 @@
+! 2021-05-03 https://www.getpcsofts.net
+||i1.wp.com/www.getpcsofts.net/wp-content/uploads/2020/01/download-button-white.png$image
+||i0.wp.com/www.getpcsofts.net/wp-content/uploads/2018/10/download_green_secure_direct.png$image
+
+||kissasian.li/*.aspx
+||kissasian.li^$subdocument,~third-party
+
+! 2021-11-27 https://pro.imdb.com
+pro.imdb.com##.logged-out-modal-v2.a-section
+pro.imdb.com###logged_out_overlay
+pro.imdb.com##.ab_widget > .a-section
